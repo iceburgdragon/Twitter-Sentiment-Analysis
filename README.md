@@ -8,9 +8,9 @@ numpy version: 1.13.0
 
 Purpose: train a Recurrent Neural Network Model to predict sentiment of Twitter posts
 
-Testing and training data below can be downloaded from http://help.sentiment140.com/for-students)
-training.1600000.processed.noemoticon.csv: 1.6 million Twitter posts used for training data 
-testdata.manual.2009.06.14.csv: Twitter posts used for test data
+Testing and training data below can be downloaded from http://help.sentiment140.com/for-students) <br />
+training.1600000.processed.noemoticon.csv: 1.6 million Twitter posts used for training data <br />
+testdata.manual.2009.06.14.csv: Twitter posts used for test data <br />
 
 Python files
 sentiment_preprocessing.py: for preparing training and testing data to be input for the RNN network. Run this first if "million_rnn_input.pickle" need to be prepared. It will create the following files:
